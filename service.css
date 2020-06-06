@@ -1,0 +1,40 @@
+a
+{
+    color:white!important;
+}
+ul,li{
+    margin-left:15%;
+}
+.navigationmenu
+{
+    background-color:rgb(49, 47, 47)!important;
+        width:100%!important;
+        height: 100%!important;
+       
+    /* position: sticky!important; */
+    
+}
+a:hover
+{
+    text-decoration-line: underline!important;
+    /* text-decoration-color: snow!important; */
+    color:white!important;
+    
+}
+
+.togbtn
+{
+    border:none!important;
+    background-color: skyblue!important;
+    
+}
+header{
+    background-color: crimson;
+    color:white;
+    font-size:70px;
+    text-align: center;
+}
+p{
+   font-size:15px;
+   text-align:center;
+}

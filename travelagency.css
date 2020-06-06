@@ -1,0 +1,45 @@
+a
+{
+    color:lightblue!important;
+}
+ul,li{
+    margin-left:15%;
+}
+.navigationmenu
+{
+    background-color:rgb(49, 47, 47)!important;
+        width:100%!important;
+    /* position: sticky!important; */
+    
+}
+a:hover
+{
+    text-decoration-line: underline!important;
+    /* text-decoration-color: snow!important; */
+    color:white!important;
+  
+
+}
+
+
+.togbtn
+{
+    border:none!important;
+    background-color: skyblue!important;
+    
+}
+
+
+
+footer {    height: 600px;
+    width: 100vw;
+    background-color:black;
+   color:white;
+    overflow: hidden;
+    /* background: #C33764;  /* fallback colour. Make sure this is just one solid colour. */
+    /* background: -webkit-linear-gradient(rgba(29, 38, 113, 0.8), rgba(195, 55, 100, 0.8));
+    background: linear-gradient(rgba(29, 38, 113, 0.8), rgba(195, 55, 100, 0.8));  /* The least supported option. */
+    /* background-repeat: no-repeat; */ 
+}
+    /* backface-visibility: hidden; */
+

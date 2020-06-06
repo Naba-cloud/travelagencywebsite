@@ -1,0 +1,40 @@
+
+.container-fluid
+{
+    background-color: rgb(245,245,245);
+    text-align: center;
+    height:400px;
+}
+a
+{
+    color:white!important;
+}
+ul,li{
+    margin-left:15%;
+}
+.navigationmenu
+{
+    background-color:rgb(49, 47, 47)!important;
+         /* width:100%!important;
+        height: 100%!important;*/
+       
+   
+    
+}
+a:hover
+{
+    text-decoration-line: underline!important;
+    /* text-decoration-color: snow!important; */
+    color:white!important;
+    
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.togbtn
+{
+    border:none!important;
+    background-color: skyblue!important;
+    
+}
